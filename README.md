@@ -1,6 +1,7 @@
 ### Hi there, I am Ebi-Tech 👋
 
-I am a Software Engineering Trainee with Mechanical Engineering background. I have  Shell and C programming Knowledge and I am currently working on Python programing and Html!
+I am a Software Engineering Trainee with Mechanical Engineering background 😄. 
+
 <p>I am driven by a willingness to solve problems to transform  my community and the world at large</p>
 
 <p title="My social media contact">Below is my contact details:</p>
