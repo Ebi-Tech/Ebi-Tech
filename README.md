@@ -84,13 +84,32 @@ I'm a **Software Engineering student** at African Leadership University with a u
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Ebi-Tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<a href="https://github.com/Ebi-Tech">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ebi-Tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" onerror="this.style.display='none'"/>
+</a>
+<a href="https://github.com/Ebi-Tech">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ebi-Tech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" onerror="this.style.display='none'"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebi-Tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="48%" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ebi-Tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=Ebi-Tech&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" onerror="this.style.display='none'"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ebi-Tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph" width="98%" />
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ebi-Tech&theme=radical" width="98%" onerror="this.style.display='none'"/>
+
+</div>
+
+<div align="center">
+  
+### 📈 Additional Stats
+
+![](https://komarev.com/ghpvc/?username=Ebi-Tech&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
